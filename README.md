@@ -1,3 +1,5 @@
 <p align="center">
-  <img width="150" height="150" src="strikeforce.jpg">
+  <img width="250" height="250" src="strikeforce.jpg">
 </p>
+
+Rust developer. I use arch btw.
