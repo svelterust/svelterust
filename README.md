@@ -1,0 +1,1 @@
+![Strikeforce](strikeforce.jpg)
