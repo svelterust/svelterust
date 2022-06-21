@@ -4,9 +4,7 @@
 
 20-year-old dogmatic Zig & Rust developer from 🇳🇴 Norway 🇳🇴
 
-<video width="50%">
-    <source src="https://github.com/knarkzel/knarkzel/blob/master/deadlift.webm?raw=true" type="video/webm">
-</video>
+https://github.com/knarkzel/knarkzel/blob/master/deadlift.webm?raw=true"
 
 ## Programming languages
 
