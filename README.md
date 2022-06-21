@@ -4,7 +4,7 @@
 
 20-year-old dogmatic Zig & Rust developer from 🇳🇴 Norway 🇳🇴
 
-![Deadlift](deadlift.webm)
+https://user-images.githubusercontent.com/85593302/174831035-92e6143c-9a94-4022-bc6a-ab3a45135ef5.mp4
 
 ## Programming languages
 
