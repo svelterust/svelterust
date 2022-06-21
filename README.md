@@ -2,6 +2,12 @@
   <img width="250" height="250" src="strikeforce.jpg">
 </p>
 
+20-year-old dogmatic Zig & Rust developer from 🇳🇴 Norway 🇳🇴
+
+<video width="50%">
+    <source src="deadlift.webm" type="video/webm">
+</video>
+
 ## Programming languages
 
 1. Zig
