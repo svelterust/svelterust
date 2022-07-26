@@ -2,9 +2,7 @@
   <img width="250" height="250" src="strikeforce.jpg">
 </p>
 
-20-year-old dogmatic Zig & Rust developer from 🇳🇴 Norway 🇳🇴
-
-https://user-images.githubusercontent.com/85593302/174831035-92e6143c-9a94-4022-bc6a-ab3a45135ef5.mp4
+20-year-old Zig & Rust developer from 🇳🇴 Norway 🇳🇴
 
 ## Programming languages
 
