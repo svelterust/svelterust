@@ -1,7 +1,7 @@
 <p align="center">
-    <img width="250" height="250" src="zig.webp">
-    <img width="250" height="250" src="rust.webp">
-    <img width="250" height="250" src="nix.webp">
+    <img width="100" height="100" src="zig.webp">
+    <img width="100" height="100" src="rust.webp">
+    <img width="125" height="100" src="nix.webp">
 </p>
 
 20-year-old software developer from Norway
