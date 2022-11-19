@@ -11,13 +11,12 @@
 1. Zig
 2. Rust
 3. Nix
-
+4. TypeScript
 
 ## Other languages
 
 4. Bash
 6. Emacs Lisp
-7. JavaScript
 
 ## Flakes
 
