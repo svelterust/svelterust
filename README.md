@@ -4,7 +4,7 @@
     <img width="115" height="100" src="nix.webp">
 </p>
 
-20-year-old software developer from Norway
+21-year-old software developer from Norway
 
 ## Programming languages
 
@@ -18,3 +18,8 @@
 4. Bash
 6. Emacs Lisp
 7. JavaScript
+
+## Flakes
+
+- [bun](https://github.com/knarkzel/bun-flake)
+- [devkitpro](https://github.com/knarkzel/devkitnix)
