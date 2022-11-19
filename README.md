@@ -4,7 +4,7 @@
     <img width="115" height="100" src="nix.webp">
 </p>
 
-21-year-old software developer and muslim from Norway
+21-year-old muslim from Norway that developes software
 
 ## Programming languages
 
