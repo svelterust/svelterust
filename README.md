@@ -8,8 +8,8 @@
 
 ## Programming languages
 
-1. Zig
-2. Rust
+1. Rust
+2. Zig
 3. Nix
 4. TypeScript
 5. Emacs Lisp
