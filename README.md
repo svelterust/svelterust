@@ -1,6 +1,6 @@
 <p align="center">
-    <img width="100" height="100" src="zig.webp">
     <img width="100" height="100" src="rust.webp">
+    <img width="100" height="100" src="zig.webp">
     <img width="115" height="100" src="nix.webp">
 </p>
 
