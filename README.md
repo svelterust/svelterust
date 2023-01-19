@@ -12,11 +12,7 @@
 2. Rust
 3. Nix
 4. TypeScript
-
-## Other languages
-
-4. Bash
-6. Emacs Lisp
+5. Emacs Lisp
 
 ## Flakes
 
