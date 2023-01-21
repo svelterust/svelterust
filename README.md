@@ -14,6 +14,10 @@
 4. TypeScript
 5. Emacs Lisp
 
+## Examples
+
+- [wasmer-http-example](https://github.com/knarkzel/wasmer-http-example)
+
 ## Flakes
 
 - [bun](https://github.com/knarkzel/bun-flake)
