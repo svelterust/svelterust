@@ -17,6 +17,7 @@
 ## Examples
 
 - [wasmer-http-example](https://github.com/knarkzel/wasmer-http-example)
+- [dioxus-boilerplate](https://github.com/knarkzel/dioxus-boilerplate)
 
 ## Flakes
 
