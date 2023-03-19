@@ -23,3 +23,4 @@
 
 - [bun](https://github.com/knarkzel/bun-flake)
 - [devkitpro](https://github.com/knarkzel/devkitnix)
+- [esp32](https://github.com/knarkzel/esp32)
