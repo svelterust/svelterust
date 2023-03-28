@@ -24,3 +24,4 @@
 - [bun](https://github.com/knarkzel/bun-flake)
 - [esp32](https://github.com/knarkzel/esp32)
 - [devkitpro](https://github.com/knarkzel/devkitnix)
+- [skytable](https://github.com/knarkzel/skytable-flake)
