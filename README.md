@@ -18,6 +18,7 @@
 
 - [dioxus-boilerplate](https://github.com/knarkzel/dioxus-boilerplate)
 - [wasmer-http-example](https://github.com/knarkzel/wasmer-http-example)
+- [sveltekit-nix](https://github.com/knarkzel/sveltekit-nix)
 
 ## Flakes
 
