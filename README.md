@@ -10,9 +10,9 @@
 ## Technologies
 
 1. Rust
-3. SvelteKit
+2. Zig
 3. Nix
-4. Zig
+4. SvelteKit
 5. TypeScript
 
 ## Examples
