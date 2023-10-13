@@ -2,17 +2,18 @@
     <img width="100" height="100" src="rust.webp">
     <img width="100" height="100" src="zig.webp">
     <img width="115" height="100" src="nix.webp">
+    <img width="115" height="130" src="svelte.webp">
 </p>
 
 21-year-old muslim from Norway studying computer science
 
-## Programming languages
+## Technologies
 
 1. Rust
-2. Zig
+3. SvelteKit
 3. Nix
-4. TypeScript
-5. Emacs Lisp
+4. Zig
+5. TypeScript
 
 ## Examples
 
