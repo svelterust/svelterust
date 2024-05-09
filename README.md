@@ -6,7 +6,7 @@
     <img width="100"  height="100" src="typescript.webp">
 </p>
 
-22-year-old muslim from Norway studying computer science
+22-year-old Rust/Zig enjoyer from Norway
 
 ## Technologies
 
