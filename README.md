@@ -1,19 +1,19 @@
 <p align="center">
     <img width="100" height="100" src="rust.webp">
+    <img width="83"  height="100" src="svelte.webp">
     <img width="100" height="100" src="zig.webp">
     <img width="115" height="100" src="nix.webp">
-    <img width="83"  height="100" src="svelte.webp">
     <img width="100"  height="100" src="typescript.webp">
 </p>
 
-22-year-old Rust/Zig enjoyer from Norway
+22-year-old Rust/Svelte enjoyer from Norway
 
 ## Technologies
 
 1. Rust
-2. Zig
-3. Nix
-4. SvelteKit
+2. Svelte
+3. Zig
+4. Nix
 5. TypeScript
 
 ## Examples
