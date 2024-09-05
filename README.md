@@ -15,16 +15,3 @@
 3. Zig
 4. Nix
 5. TypeScript
-
-## Examples
-
-- [dioxus-boilerplate](https://github.com/knarkzel/dioxus-boilerplate)
-- [wasmer-http-example](https://github.com/knarkzel/wasmer-http-example)
-- [sveltekit-nix](https://github.com/knarkzel/sveltekit-nix)
-
-## Flakes
-
-- [bun](https://github.com/knarkzel/bun-flake)
-- [esp32](https://github.com/knarkzel/esp32)
-- [devkitpro](https://github.com/knarkzel/devkitnix)
-- [skytable](https://github.com/knarkzel/skytable-flake)
