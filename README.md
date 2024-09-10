@@ -6,7 +6,7 @@
     <img width="100"  height="100" src="typescript.webp">
 </p>
 
-22-year-old Svelte/Rust enjoyer from Norway
+22-year-old Svelte/Rust enjoyer from Norway. See [svelterust.com](https://svelterust.com) for more.
 
 ## Technologies
 
