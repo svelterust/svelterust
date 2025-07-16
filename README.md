@@ -3,9 +3,6 @@
     <img width="100" height="100" src="rust.webp">
 </p>
 
-23-year-old Svelte/Rust enjoyer from Norway.
-
-## Technologies
-
-1. Svelte
-2. Rust
+<p align="center">
+    23-year-old Svelte/Rust enjoyer from Norway.
+</p>
